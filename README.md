@@ -1,18 +1,8 @@
-## Getting Started
+este é um programa de SIMULAÇÃO!!!!!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+é até possivel realizar ligações por ele utilizando um aplicativo externo como o MICROSIP mas a resposta do cliente não será registrada.
+para utilizar esse programa basta alterar o caminho onde se encontram os audios e ter uma planilha (excel ou google sheets) com numeros de telefone.
 
-## Folder Structure
+fiz esse projeto como um prototipo para um projeto real que me foi solicitado, e com ele pronto entreguei para saber se era isso que o cliente queria.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+também é possivel realizar a adaptação do projeto para automatizar outros processos dependendo da necessidade.
