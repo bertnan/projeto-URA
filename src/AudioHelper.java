@@ -1,3 +1,5 @@
+//esta classe nao esta sendo utilizada, foi uma tentativa de adaptação feita por IA para descobrir se era possivel tocar o audio no microfone do computador sem utilizar aplicativos externos
+
 import java.io.File;
 
 import javax.sound.sampled.*;
